@@ -1,4 +1,4 @@
-# Exemplo de Comunicação RCA em Python sem bibliotecas externas
+# Exemplo de Comunicação RSA em Python sem bibliotecas externas
 
 ## Índice
 - [Visão Geral](#visão-geral)
